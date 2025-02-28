@@ -1,0 +1,1 @@
+set "NODE_ENV=production" && node dist/server.mjs

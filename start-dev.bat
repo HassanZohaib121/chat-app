@@ -1,0 +1,1 @@
+set "NODE_OPTIONS=--loader ts-node/esm --trace-warnings --no-warnings" && ts-node server.mts
