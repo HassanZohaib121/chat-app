@@ -19,7 +19,7 @@ A real-time chat application built with Next.js, Socket.IO, Tailwind CSS v4, and
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/chat-app.git
+git clone https://github.com/HassanZohaib121/chat-app.git
 cd chat-app
 ```
 
